@@ -1,0 +1,44 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SlimRoms/hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "ng7.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SlimRoms/packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "ng7.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TeslaRom-N/device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "n7.1.2"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SlimRoms/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "ng7.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TeslaRom-N/external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "n7.1.2"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TeslaRom-N/external_stlport",
+    "target_path": "external/stlport",
+    "branch":      "n7.1.2"
+  },
+  {
+    "remote":      "github",
+    "repository":  "tioguda/android_kernel_samsung_msm8916",
+    "target_path": "kernel/samsung/msm8916",
+    "branch":      "GZR-7.1"
+  }
+]
