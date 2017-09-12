@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "SlimRoms/packages_resources_devicesettings",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch":      "ng7.1"
+    "branch":      "cm-14.1"
   },
   {
     "remote":      "github",
@@ -19,9 +19,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "SlimRoms/device_samsung_qcom-common",
+    "repository":  "tioguda/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch":      "ng7.1"
+    "branch":      "n"
   },
   {
     "remote":      "github",
